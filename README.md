@@ -114,3 +114,12 @@ python eval_cd.py --split ${split} --net_G ${net_G} --checkpoint_name ${checkpoi
 
 ## License
 Code is released for non-commercial and research purposes **only**. For commercial purposes, please contact the authors.
+
+
+
+* Plane Text：
+	Y. Feng, H. Xu, J. Jiang and J. Zheng, "Compact Intertemporal Coupling Network for Remote Sensing Change Detection," in IEEE International Conference on Multimedia & Expo (ICME 2023).
+
+    Y. Feng, J. Jiang, H. Xu and J. Zheng, "Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3241257.
+    
+    Y. Feng, H. Xu, J. Jiang, H. Liu and J. Zheng, "ICIF-Net: Intra-Scale Cross-Interaction and Inter-Scale Feature Fusion Network for Bitemporal Remote Sensing Images Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 4410213, doi: 10.1109/TGRS.2022.3168331.
